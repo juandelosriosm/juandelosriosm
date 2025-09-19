@@ -1,4 +1,3 @@
-### Hi there 👋  
 
 ## I’m Juan de los Rios  
 
@@ -55,10 +54,13 @@
 
 ### 📂 Featured Repositories  
 
-| Proyecto | Descripción |
-|---|---|
-| **[ising-hpc-phase-transition](https://github.com/juandelosriosm/ising-hpc-phase-transition)** | Simulation of phase transition in the Ising model using **High Performance Computing (HPC)** techniques. Focused on the study of physical quantities such as magnetization and energy near the critical point. |
-| **[gray-scott-reaction-diffusion-hpc](https://github.com/juandelosriosm/gray-scott-reaction-diffusion-hpc)** | Implementation of the **Gray-Scott reaction-diffusion model** with parallel computing. Explores emergent spatial patterns in continuous media under different parameter regimes. |
+| Project | Description | Visualization |
+|---|---|---|
+| **[ising-hpc-phase-transition](https://github.com/juandelosriosm/ising-hpc-phase-transition)** | Simulation of phase transition in the **Ising model** using **High Performance Computing (HPC)** techniques. Focus on the study of magnetization, susceptibility, and energy near the critical point. | <img src="https://github.com/juandelosriosm/gray-scott-reaction-diffusion-hpc/blob/main/FIG.jpeg" alt="Ising Model Simulation" width="220"> |
+| **[gray-scott-reaction-diffusion-hpc](https://github.com/juandelosriosm/gray-scott-reaction-diffusion-hpc)** | Implementation of the **Gray-Scott reaction-diffusion model** with **parallel computing**. Explores emergent spatial patterns in continuous media under different parameter regimes. | <a href="https://www.youtube.com/watch?v=EFfg0y3oTmE" target="_blank"><img src="https://img.youtube.com/vi/EFfg0y3oTmE/0.jpg" alt="Gray-Scott Reaction-Diffusion Video" width="220"></a> |
+
+
+
 
 <p align="center">
   <a href="https://github.com/juandelosriosm/ising-hpc-phase-transition">
@@ -71,18 +73,12 @@
 
 ---
 
-### 🎥 Demo del Proyecto Gray-Scott  
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=EFfg0y3oTmE" target="_blank">
-    <img src="https://img.youtube.com/vi/EFfg0y3oTmE/0.jpg" alt="Gray-Scott Reaction Diffusion Demo" width="600">
-  </a>
-</p>
 
 ---
 
-### 🌐 Links & Contact  
 
-- ✉️ [Email](mailto:tuemail@ejemplo.com)  
-- 🧑‍💼 [LinkedIn](#)  
-- 📄 [CV / Website](#)  
+### 📫 Contact  
+
+- ✉️ [Email](mailto:juandelosriosdvarrobagmail.com)  
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/juan-david-de-los-rios-mahecha-60a427347/)  
+
